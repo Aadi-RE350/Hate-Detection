@@ -1,0 +1,8 @@
+Data/
+__pycache__/
+csv/
+metahate_final_model/
+metahate_final_model_saved/
+bert_cnn_frozen.pth
+.env
+.env.*
